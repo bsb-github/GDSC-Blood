@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "640043252981",
+    "project_id": "gdscbloodbank",
+    "storage_bucket": "gdscbloodbank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640043252981:android:a3f58c8d3eaf8e0811d9bc",
+        "android_client_info": {
+          "package_name": "com.example.blood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640043252981-inij1igdnf4sqmuneink2rof8k6mv994.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blood",
+            "certificate_hash": "b5957b9e56965686fdd7ac57a89ada6c32de30ed"
+          }
+        },
+        {
+          "client_id": "640043252981-31tdciregvkgpdfqdseda5s0u9sqs4dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIIitqC8-5dBWD2qwswVhUhiewAFy0LUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640043252981-31tdciregvkgpdfqdseda5s0u9sqs4dv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "640043252981-n8gb6n23gk68fprsevv4476eav0paeqa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.blood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
